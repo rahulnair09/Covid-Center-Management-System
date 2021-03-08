@@ -1,8 +1,8 @@
 # Covid-Center-Management-System
 System is an ordinary grouping of independent component liked together according to a plan to achieve a specific objectives.  It is necessary for Covid Center’s to keep the record of its day-to-day activities of its patients, doctors and the Plasma Donor’s that keep the center’s working smoothly and successfully 
 
-     Covid Centers & Pathology department plays an important role in developing any Hospital. As the patients were facing number of issues during the testing for covid19, admission, discharge process due to manual entry of data .To avoid there limitation I have attempted to make a project on Covid19 so that the patients will be not facing any issues during admission & discharge facility and the further process will be carried out in an easiest way.
-
+ Covid Centers & Pathology department plays an important role in developing any Hospital. As the patients were facing number of issues during the testing for covid19, admission, discharge process due to manual entry of data .To avoid there limitation I have attempted to make a project on Covid19 so that the patients will be not facing any issues during admission & discharge facility and the further process will be carried out in an easiest way.
+ 
 System also helps to keep the data of those patients who are eligible for plasma donation so that the patients who are being affected by Covid19 can be cured with the help of Plasma and also it helps to keep the track of data for those patients who are being Home Quaratine.
  
 
