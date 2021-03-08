@@ -13,4 +13,11 @@ The purpose of Covid Center Management System is to provide information for anal
  4. Plasma Donor’s
  5. Discharge Process
  
+* Need for System
+
+
+1.	Scheduling the service of specialized doctor to those Patients who are Home Quarantine so that facilities provided by the Hospital are fully utilized in effective and efficient manner.
+2.	Patients can easily follow the all the Covid Center process and can ignore for the manual process.
+3.	Death Certificate can be easily generated with the help of the system.
+4.	Information written on paper loss due to breakage of book or loss due to break stock of document.
 
